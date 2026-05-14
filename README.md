@@ -1,4 +1,4 @@
-# Story Sequence Image Generation with GAN
+# Story Sequencing Image Generation with GAN(Generative Adversarial Network)
 
 This project implements a deep learning model for generating the next image in a sequence based on a story's visual and textual context. It uses a multimodal approach combining image sequences, text descriptions, and a Generative Adversarial Network (GAN) to predict future frames in visual stories.
 
